@@ -3,7 +3,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Divii2205&color=8A2BE2)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hii+hii!+Divijaa+here!;An+Open+Source+Enthusiast+💪;Tech+Explorer+🚀;Passionate+Learner+😊;Always+Happy+to+Collab+✨!">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hii+hii!+Divijaa+here!;An+Open+Source+Enthusiast+💪;Tech+Explorer+🚀;Passionate+Learner+😊;Always+Happy+to+Collab+✨!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Hii+hii!+Divijaa+here!;An+Open+Source+Enthusiast+💪;Tech+Explorer+🚀;Passionate+Learner+😊;Always+Happy+to+Collab+✨!">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hii+hii!+Divijaa+here!;An+Open+Source+Enthusiast+💪;Tech+Explorer+🚀;Passionate+Learner+😊;Always+Happy+to+Collab+✨!">
+  </picture>
 </p>
 
 ## 💫 About Me
